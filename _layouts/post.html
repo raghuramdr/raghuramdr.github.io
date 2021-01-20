@@ -1,7 +1,9 @@
 ---
-layout: post
-title: "My First Post"
-date: 2014-01-20
+layout: default
 ---
+<h1>{{ page.title }}</h1>
+<p class="meta">{{ page.date | date_to_string }}</p>
 
-Well. Finally got around to putting this up.It is powered by [Jekyll](http://jekyllrb.com).
+<div class="post">
+  {{ content }}
+</div>
