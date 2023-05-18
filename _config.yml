@@ -1,7 +1,6 @@
 title: "pseudodoctor"
-author: "D R Raghuram (ಡಿ ಆರ್ ರಘುರಾಮ್)"
-description: "अनेकसंशयोच्छेदि, परोक्षार्थस्य दर्शकम् ।"
-"सर्वस्य लोचनं शास्त्रं, यस्य नास्त्यन्ध एव सः ॥"
+author: "D R Raghuram"
+description: "nullus in verbia."
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
