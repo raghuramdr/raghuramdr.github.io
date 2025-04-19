@@ -1,8 +1,8 @@
 title: "D R Raghuram"
 author: "D R Raghuram"
-description: "nullus in verbia."
+description: "अनेकसंशयोच्छेदि, परोक्षार्थस्य दर्शकम् । सर्वस्य लोचनं शास्त्रं, यस्य नास्त्यन्ध एव सः ॥"
 permalink: /:title/
-lang: "en"
+lang: ["en", "hi", "kn"]
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
@@ -12,6 +12,11 @@ show_excerpts: true        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
+
+
+# Fonts configuration (add this section)
+font-family: "PT Sans", "Noto Sans Devanagari", "Noto Sans Kannada", -apple-system, "Helvetica Neue", "Segoe UI", "Roboto", sans-serif
+heading-font-family: "PT Sans", "Noto Sans Devanagari", "Noto Sans Kannada", -apple-system, "Helvetica Neue", "Segoe UI", "Roboto", sans-serif
 
 # Menu
 
