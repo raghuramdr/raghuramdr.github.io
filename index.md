@@ -9,11 +9,9 @@ I am currently a second year computational biology PhD student at Universität B
 I am not a medical doctor! D R are my initials. D is a [toponym](https://en.wikipedia.org/wiki/Toponymic_surname), and R is my father's name [patronym](https://en.wikipedia.org/wiki/Patronymic). This naming convention is common in the south of India, where I hail from. 
 
 ### Research Interests
-* Predictive modeling of the link between genotypes and phenotypes <br>
-* Network analysis of metagenomics <br>
+* Understanding link between genotypes and phenotypes <br>
+* Generative modeling applied to genomics <br>
 * Interpretability and privacy in healthcare <br>
-
-I am also interested in the field of single cell and sptial cell biology, and how its intersection with the computational sciences.
 
 ### Find me on
 * email raghuram(at)CeBiTec(dot)Uni(hyphen)Bielefeld(dot)DE
