@@ -24,6 +24,7 @@ heading-font-family: "'PT Sans', 'Noto Sans Devanagari', 'Noto Sans Kannada', -a
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "research.md"}
   - {file: "publications.md"}
+  - {url: "/blog/", title: "Blog"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:raghuramdr.noreply.github.com"}
