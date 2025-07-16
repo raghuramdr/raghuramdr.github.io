@@ -18,7 +18,7 @@ I am broadly interested in the intersection of AI and ML with biology. My curren
 * twitter [pseudodoctor](https://www.twitter.com/pseudodoctor)
 
 ### Miscellaneous
-Outside of research, I like to [read]((https://www.goodreads.com/user/show/13626649-raghuram-d-r)), go on long runs, hike. 
+Outside of research, I like to [read]((https://www.goodreads.com/user/show/13626649-raghuram-d-r)), go on long runs, and  hike. 
 I am not a medical doctor! D R are my initials. D is a [toponym](https://en.wikipedia.org/wiki/Toponymic_surname), and R is my father's name [patronym](https://en.wikipedia.org/wiki/Patronymic). This naming convention is common in the south of India, where I hail from. My name in the Kannada script is ರಘುರಾಮ್ ದಂಡಿನಶಿವರ
 
 
