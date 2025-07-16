@@ -15,10 +15,13 @@ I am broadly interested in the intersection of AI and ML with biology. My curren
 
 ### Find me on
 * email raghuram(at)CeBiTec(dot)Uni(hyphen)Bielefeld(dot)DE
-* twitter [pseudodoctor](https://www.twitter.com/pseudodoctor)
+* X, formerly known as Twitter [pseudodoctor](https://www.twitter.com/pseudodoctor)
+  
 
 ### Miscellaneous
-Outside of research, I like to [read]((https://www.goodreads.com/user/show/13626649-raghuram-d-r)), go on long runs, and  hike. 
+Outside of research, I like to [read](https://www.goodreads.com/user/show/13626649-raghuram-d-r), go on long runs (my PB is 10KM in 42 minutes), and  hike. 
 I am not a medical doctor! D R are my initials. D is a [toponym](https://en.wikipedia.org/wiki/Toponymic_surname), and R is my father's name [patronym](https://en.wikipedia.org/wiki/Patronymic). This naming convention is common in the south of India, where I hail from. My name in the Kannada script is ರಘುರಾಮ್ ದಂಡಿನಶಿವರ
+
+
 
 
