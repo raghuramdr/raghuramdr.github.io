@@ -13,7 +13,7 @@ I am currently a fourth year computational biology PhD student at Universität B
 ### Research Interests
 I am broadly interested in the intersection of AI and ML with biology. My current interests are:
 
-* Generative modeling applied to genomics <br>
+* Generative modeling for genomics <br>
 * Computationally deciphering antibiotic resistance <br>
 * Interpretability and privacy in healthcare <br>
   
