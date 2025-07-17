@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-<div class="center-image">
+<div style="text-align: center;">
   <img src="images/profile.jpg" width="200" height="200" alt="Profile picture">
 </div>
 
