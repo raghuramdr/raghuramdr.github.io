@@ -8,7 +8,7 @@ title: ""
        alt="Profile picture"
        width="100"
        height="100"
-       style="border-radius: 75%; display: block;">
+       style="border-radius: 50%; display: block;">
 </div>
 
 ### Who am I?
