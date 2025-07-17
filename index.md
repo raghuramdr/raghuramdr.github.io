@@ -6,9 +6,9 @@ title: ""
 <div style="position: absolute; top: 20px; left: 20px;">
   <img src="images/profile.jpg"
        alt="Profile picture"
-       width="150"
-       height="150"
-       style="border-radius: 50%; display: block;">
+       width="100"
+       height="100"
+       style="border-radius: 75%; display: block;">
 </div>
 
 ### Who am I?
