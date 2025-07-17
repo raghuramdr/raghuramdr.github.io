@@ -6,8 +6,8 @@ title: ""
 <div style="position: absolute; top: 20px; left: 20px;">
   <img src="images/profile.jpg"
        alt="Profile picture"
-       width="200"
-       height="200"
+       width="160"
+       height="160"
        style="border-radius: 50%; display: block;">
 </div>
 
