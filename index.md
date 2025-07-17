@@ -3,9 +3,11 @@ layout: page
 title: ""
 ---
 
-<p align="center">
-  <img src="images/profile.jpg" width="400" height="400" alt="Profile picture">
-</p>
+<img src="images/profile.jpg"
+     alt="Profile picture"
+     width="200"
+     height="200"
+     style="float: left; border-radius: 50%; margin-right: 20px;">
 
 ### Who am I?
 I am currently a fourth year computational biology PhD student at Universität Bielefeld working at the intersection of deep learning and genomics. I was funded by a Marie Skłodowska-Curie fellowship as part of the [ALPACA](https://alpaca-itn.eu/) project. I am advised by Prof. Dr. Alexander Schönhuth in the Genome Data Science Group. I have a background in electrical engineering, obtained from VTU, Karnataka, India and a masters degree in biomedical engineering from the [Indian Institute of Technology Madras](https://www.iitm.ac.in). I subsequently worked in the data science/ML industry for four years on a bunch of stuff, prior to starting my PhD. I also had short stints as a volunteer grade school maths teacher and as a science writer. I also ran DataKind Bengaluru, the Bengaluru chapter of [DataKind](https://www.datakind.org/) for a couple of years in a volunteer capacity. I hail from the city of Bengaluru, located in the south of India.
