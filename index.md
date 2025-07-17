@@ -19,7 +19,7 @@ I am broadly interested in the intersection of AI and ML with biology. My curren
 
 * Generative modeling for genomics <br>
 * Computationally deciphering antibiotic resistance <br>
-* Interpretability and privacy in healthcare <br>
+* Interpretability and privacy in genomics <br>
   
 
 ### Miscellaneous
