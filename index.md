@@ -23,9 +23,9 @@ I am broadly interested in the intersection of AI and ML with biology. My curren
   
 
 ### Miscellaneous
-Outside of research, I like to [read](https://www.goodreads.com/user/show/13626649-raghuram-d-r), go on long runs (my PB is 10KM in 42 minutes), hike, and indulge in the occassional bird-watching (my favourite birds are the red-whiskered bulbul and the European green woodpecker). Until a couple of years back, I was an active trivia/pub quizzer.
+Outside of research, I like to [read](https://www.goodreads.com/user/show/13626649-raghuram-d-r), go on long runs, hike, and indulge in the occassional bird-watching. I also used to play the mridangam and the sitar for a bit, sadly not anymore. Until a couple of years back, I was an active trivia/pub quizzer.
 
-I am not a medical doctor! D R are my initials. D is a [toponym](https://en.wikipedia.org/wiki/Toponymic_surname), and R is my father's name [patronym](https://en.wikipedia.org/wiki/Patronymic). This naming convention is common in the south of India, where I hail from. My name in the Kannada script is ರಘುರಾಮ್ ದಂಡಿನಶಿವರ.
+I am not a medical doctor! D R are my initials. My name in the Kannada script is ರಘುರಾಮ್ ದಂಡಿನಶಿವರ.
 
 ### Find me on
 * email raghuram(at)CeBiTec(dot)Uni(hyphen)Bielefeld(dot)DE
