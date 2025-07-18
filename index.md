@@ -20,10 +20,10 @@ I am broadly interested in the intersection of AI and ML with biology. My curren
 * Generative modeling for genomics <br>
 * Computationally deciphering antibiotic resistance <br>
 * Interpretability and privacy in genomics <br>
-  
+* I also try to keep up with the literature in single cell and spatial genomics, but I fear it's a lost cause
 
 ### Miscellaneous
-Outside of research, I like to [read](https://www.goodreads.com/user/show/13626649-raghuram-d-r), go on long runs, hike, and indulge in the occassional bird-watching. I also used to play the mridangam and the sitar for a bit, sadly not anymore. Until a couple of years back, I was an active trivia/pub quizzer.
+Outside of research, I like to [read](https://www.goodreads.com/user/show/13626649-raghuram-d-r), go on long runs, hike, and indulge in the occassional bird-watching. I'm a big fan of classical Indian music - used to play the mridangam, ghatam and the sitar. Unfortunately not anymore. Until a couple of years back, I was an active trivia/pub quizzer.
 
 I am not a medical doctor! D R are my initials. My name in the Kannada script is ರಘುರಾಮ್ ದಂಡಿನಶಿವರ.
 
